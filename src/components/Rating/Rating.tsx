@@ -7,6 +7,7 @@ function Star(props: StarPropsType) {
         return <span><b>star</b> </span>
     } else {
         return <span>star </span>
+
     }
 }
 
