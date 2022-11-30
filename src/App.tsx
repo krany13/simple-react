@@ -7,7 +7,7 @@ function App() {
     return (
         <div className={"App"}>
             <UncontrolledAccordion titleValue={"--Menu--"}/>
-            {/*<UncontrolledAccordion titleValue={"Users"}/>*/}
+            <UncontrolledAccordion titleValue={"Users"}/>
             {/*<Rating value={0}/>*/}
             {/*<Rating value={1}/>*/}
             {/*<Rating value={2}/>*/}
